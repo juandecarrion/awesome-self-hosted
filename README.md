@@ -17,3 +17,5 @@ A curated list of awesome self hosted alternatives to cloud services. Inspired b
 	- [OpenNote](https://github.com/FoxUSA/OpenNote) alternative to Evernote
 - Read-it-later
 	- [wallabag](https://github.com/wallabag/wallabag) alternative to Pocket
+- Visitor Tracking
+	- [Piwik](https://github.com/piwik/piwik) alternative to Google Analytics
