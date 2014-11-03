@@ -19,3 +19,14 @@ A curated list of awesome self hosted alternatives to cloud services. Inspired b
 	- [wallabag](https://github.com/wallabag/wallabag) alternative to Pocket
 - Visitor Tracking
 	- [Piwik](https://github.com/piwik/piwik) alternative to Google Analytics
+
+# Contributing
+
+Contributions are very welcome!
+
+Before filing your pull request, please take the following points into account
+- Make an individual pull request for each suggestion.
+- Choose or create a corresponding section (e.g. File Hosting) for your suggestion.
+- Use the following format for commit message: `Add <Tool-Name>`
+- If possible, link to the GitHub repository of the tool
+- Make sure that your contribution keeps the alphabetical order
