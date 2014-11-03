@@ -12,3 +12,5 @@ A curated list of awesome self hosted alternatives to cloud services. Inspired b
 - Note Taking
 	- [Laverna](https://github.com/Laverna/laverna) alternative to Evernote
 	- [OpenNote](https://github.com/FoxUSA/OpenNote) alternative to Evernote
+- Read-it-later
+	- [wallabag](https://github.com/wallabag/wallabag) alternative to Pocket
