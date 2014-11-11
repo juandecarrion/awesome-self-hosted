@@ -13,6 +13,7 @@ A curated list of awesome self hosted alternatives to cloud services. Inspired b
 	- [GitLab](https://gitlab.com/gitlab-org/gitlab-ce) alternative to GitHub
 - IDEs
 	- [Codebox](https://github.com/CodeboxIDE/codebox) alternative to Codio
+	- [Codiad](https://github.com/Codiad/Codiad) alternative to Codio
 	- [JS Bin](https://github.com/jsbin/jsbin) alternative to jsFiddle
 - Note Taking
 	- [Laverna](https://github.com/Laverna/laverna) alternative to Evernote
