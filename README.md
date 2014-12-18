@@ -2,6 +2,8 @@
 
 A curated list of awesome self hosted alternatives to cloud services. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
+- Cloud
+	- [OpenStack](http://www.openstack.org/) alternative to Amazon AWS
 - Email Client
 	- [Mailpile](https://github.com/pagekite/mailpile) alternative to Gmail
 - E-commerce
