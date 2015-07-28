@@ -6,7 +6,7 @@ A curated list of awesome self hosted alternatives to cloud services. Inspired b
 	- [OpenStack](http://www.openstack.org/) alternative to Amazon AWS
 - Email Client
 	- [Mailpile](https://github.com/pagekite/mailpile) alternative to Gmail
-- E-commerce
+- E-Shop
 	- [PrestaShop](https://github.com/PrestaShop/PrestaShop) alternative to Shopify
 - File Hosting
 	- [ownCloud](https://github.com/owncloud/core) alternative to Dropbox
