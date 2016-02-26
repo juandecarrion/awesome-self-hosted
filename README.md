@@ -9,8 +9,8 @@ A curated list of awesome self hosted alternatives to cloud services. Inspired b
 - E-Shop
 	- [PrestaShop](https://github.com/PrestaShop/PrestaShop) alternative to Shopify
 - File Hosting
-	- [Seafile](https://github.com/haiwen/seafile) alternative to Dropbox
 	- [ownCloud](https://github.com/owncloud/core) alternative to Dropbox
+	- [Seafile](https://github.com/haiwen/seafile) alternative to Dropbox
 	- [SparkleShare](https://github.com/hbons/SparkleShare) alternative to Dropbox
 - Git Repository Manager
 	- [GitLab](https://gitlab.com/gitlab-org/gitlab-ce) alternative to GitHub
